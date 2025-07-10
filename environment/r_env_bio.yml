@@ -1,0 +1,15 @@
+## 🧪 `environment/r_bio_env.yml`
+
+```yaml
+name: r_bio_env
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base=4.2.2
+  - bioconductor-reactomepa
+  - bioconductor-clusterprofiler
+  - r-readr
+  - r-plyr
+  - r-pheatmap
+  - r-igraph
