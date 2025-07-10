@@ -1,2 +1,2 @@
-# taiji_sri
-Network-based analysis of transcription factor activity in Juvenile Idiopathic Arthritis using the Taiji framework. Integrates ATAC-seq, RNA-seq, and EpiTensor data to build regulatory networks and identify key TFs driving disease states via PageRank.
+# Taiji_SRI
+This repository contains code and analysis pipelines for investigating transcription factor (TF) activity across disease states in Juvenile Idiopathic Arthritis (JIA) using the Taiji systems biology framework. By integrating ATAC-seq, RNA-seq, and imputed enhancer–promoter interactions (EpiTensor/Hi-C), we construct directional TF–gene regulatory networks for JIA patients (active disease, remission) and healthy controls. PageRank-based prioritization and statistical analysis are used to identify key regulators associated with inflammatory disease states. This work aims to uncover upstream drivers of JIA pathogenesis and inform precision therapeutic strategies in pediatric autoimmunity.
